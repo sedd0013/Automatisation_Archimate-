@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_edv.postLivraison"
+    id="1822d301-e1ad-4018-997a-0bb65268e33b"
+    documentation="issus du fichier SAP EDV  &quot;bon d'achat&quot; -> livraison&#xD;&#xA;&#xD;&#xA;clé: LIV_Tech_Ext_Key_c&#xD;&#xA;api sf sdtandard: sobjects/Livraison__c"/>

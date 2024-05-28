@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*portail_partenaire.deleteCalendarEvent (copy)"
+    id="61e29363-dcc5-49d2-bcca-a5e7cf0bfd00"
+    documentation="gestion du get QR code&#xD;&#xA;https://api.digitevent.com/QRCode/:guestId.png&#xD;&#xA;pour enrichissement du message&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*digitevent.getQRCode"
+    id="07526df2-1805-4580-b013-c583af7711de"
+    documentation=" https://api.digitevent.com/v2/event/:eventId/guests/create &#xD;&#xA;last name, first name, email, event id"/>

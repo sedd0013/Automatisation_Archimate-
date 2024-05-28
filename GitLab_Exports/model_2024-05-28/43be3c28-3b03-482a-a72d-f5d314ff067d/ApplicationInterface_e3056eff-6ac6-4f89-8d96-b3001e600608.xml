@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*salesforce_edv.deleteGuest"
+    id="e3056eff-6ac6-4f89-8d96-b3001e600608"
+    documentation="### TODO ne doit pas déclencher de trigger si pas de modif effective du status&#xD;&#xA;faire un get guest avant pour vérifier si une différence existe et ssi mettre à jour&#xD;&#xA;endpoint PUT salesforce_edv/guests/eventid/&lt;guest-id>&#xD;&#xA;"/>

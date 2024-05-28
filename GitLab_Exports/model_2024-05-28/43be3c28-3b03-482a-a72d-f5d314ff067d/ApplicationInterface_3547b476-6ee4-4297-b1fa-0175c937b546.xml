@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*digitevent.putGuest"
+    id="3547b476-6ee4-4297-b1fa-0175c937b546"
+    documentation="### TODO besoin de id guest digitevent&#xD;&#xA;&#xD;&#xA;appel préalable pour récupérer le guest id digitevent&#xD;&#xA;email est-il unique pour un event donné ?&#xD;&#xA;https://api.digitevent.com/v2/event/:eventId/guests?params={&quot;limit&quot;:2, &quot;skip&quot;:0, &quot;projection&quot;:{&quot;firstname&quot;: 1, &quot;name&quot;: 1}, &quot;query&quot;: {&quot;email&quot;: &quot;test@test.com&quot;}, &quot;sort&quot;: {&quot;predicate&quot;: &quot;name&quot;, &quot;reverse&quot;: 1}}&amp;api_key=xxxx&#xD;&#xA;&#xD;&#xA;à partir de guest &#xD;&#xA;&#xD;&#xA;puis POST ou PUT selon&#xD;&#xA;&#xD;&#xA;https://api.digitevent.com/v2/event/:eventId/guest/:guestId?api_key=xxxx&#xD;&#xA;&#xD;&#xA;"/>

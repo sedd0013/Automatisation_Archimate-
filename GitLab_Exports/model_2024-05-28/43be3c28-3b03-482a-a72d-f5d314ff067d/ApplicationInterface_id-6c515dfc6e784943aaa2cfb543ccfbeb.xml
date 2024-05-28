@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="maisons_websites.postNotifications"
+    id="id-6c515dfc6e784943aaa2cfb543ccfbeb"
+    documentation="Send back notification to inform that engage got the informations"/>

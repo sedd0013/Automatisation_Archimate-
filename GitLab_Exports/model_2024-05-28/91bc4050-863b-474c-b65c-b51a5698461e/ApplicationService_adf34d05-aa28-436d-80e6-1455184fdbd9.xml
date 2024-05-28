@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eda.portail_partenaires.any"
+    id="adf34d05-aa28-436d-80e6-1455184fdbd9"
+    documentation="*subscriber Salesforce EDV>GrApp (any)&#xD;&#xA;&#xD;&#xA;&lt;contentFilter>&lt;![CDATA[ ['ZC01','ZC05'].contains($.ZCREMAS05_APIGAT.IDOC.E1LFA1M.KTOKK) &amp;&amp; $.ZCREMAS05_APIGAT.IDOC.E1LFA1M.ZE1LFA1M != null &amp;&amp; Eval.x($.ZCREMAS05_APIGAT.IDOC.E1LFA1M.ZE1LFA1M, 'x instanceof Collection ? x.any { it.BUKRS == 4000 } : x.BUKRS == 4000') ]]>&lt;/contentFilter>&#xD;&#xA;&#xD;&#xA;"/>

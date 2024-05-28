@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eda.salesforce_edv.deliveries"
+    id="c06787ef-f624-49b0-a041-8f0a64ec4599"
+    documentation="*subscriber SAP EDV>Salesforce EDV Delivery&#xD;&#xA;&#xD;&#xA;ilivgroup (position 260-261 du fichier bona01)&#xD;&#xA;optype ((position 261-262 du fichier bona01)&#xD;&#xA;&#xD;&#xA;ilivgroup != X => liv (upsert ou del)&#xD;&#xA;&#xD;&#xA;ilivgroup != X &amp;&amp; optype in(I,U) postLivraison&#xD;&#xA;ilivgroup != X &amp;&amp; optype in(D) deleteLivraison&#xD;&#xA;ilivgroup = X > postEchantillonAdmin: statut conversion selon optype&#xD;&#xA;&#xD;&#xA;mapping et conversion SAP EDV> Salesforce EDV"/>

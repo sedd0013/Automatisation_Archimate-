@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Shopify Aus"
+    id="d86ccb2f-bc87-4213-9fd9-e16f718267d0"
+    documentation="Issu de GCP car Shopify ne peut pas emettre les webhooks sous le bon format."/>

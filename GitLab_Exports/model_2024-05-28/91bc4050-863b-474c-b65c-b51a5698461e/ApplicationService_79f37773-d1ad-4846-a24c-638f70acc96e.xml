@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eda.salesforce_edv.accounts"
+    id="79f37773-d1ad-4846-a24c-638f70acc96e"
+    documentation=" &#xD;&#xA;&lt;contentFilter>&lt;![CDATA[ ['ZC01','ZC05'].contains($.ZCREMAS05_APIGAT.IDOC.E1LFA1M.KTOKK) &amp;&amp; $.ZCREMAS05_APIGAT.IDOC.E1LFA1M.ZE1LFA1M != null &amp;&amp; Eval.x($.ZCREMAS05_APIGAT.IDOC.E1LFA1M.ZE1LFA1M, 'x instanceof Collection ? x.any { it.BUKRS == 4000 } : x.BUKRS == 4000') &amp;&amp; ($.ZCREMAS05_APIGAT.IDOC.E1LFA1M.LIFNR &lt; '0000049999') ]]>&lt;/contentFilter>&#xD;&#xA; "/>

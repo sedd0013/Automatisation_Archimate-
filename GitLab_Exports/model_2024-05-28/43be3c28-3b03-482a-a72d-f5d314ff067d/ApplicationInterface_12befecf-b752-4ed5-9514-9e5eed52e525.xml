@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="portail_partenaire.postCalendarEvent"
+    id="12befecf-b752-4ed5-9514-9e5eed52e525"
+    documentation="gestion du get QR code&#xD;&#xA;https://api.digitevent.com/QRCode/:guestId.png&#xD;&#xA;pour enrichissement du message&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="loyalty.postProduct"
+    id="id-cdb5580ce0be4750baf4f489369cca0b"
+    documentation="ItemServer/addOrUpdateItem"/>

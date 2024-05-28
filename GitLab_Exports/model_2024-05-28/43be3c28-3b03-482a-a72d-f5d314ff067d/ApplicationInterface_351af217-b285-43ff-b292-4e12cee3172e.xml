@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_edv.deleteLivraison"
+    id="351af217-b285-43ff-b292-4e12cee3172e"
+    documentation="api spe sf services/apexrest/WS05_DeleteLivraison&#xD;&#xA;"/>

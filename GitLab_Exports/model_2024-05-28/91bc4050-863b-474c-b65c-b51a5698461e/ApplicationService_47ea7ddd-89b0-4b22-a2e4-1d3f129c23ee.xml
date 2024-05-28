@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eda.sap_edv.samples"
+    id="47ea7ddd-89b0-4b22-a2e4-1d3f129c23ee"
+    documentation="appels complémentaires SF et formatage du message pour subscriber SAP EDV&#xD;&#xA;"/>

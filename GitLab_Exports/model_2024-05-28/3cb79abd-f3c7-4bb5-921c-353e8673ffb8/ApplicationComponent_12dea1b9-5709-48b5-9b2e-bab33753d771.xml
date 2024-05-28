@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Engage Backend (GCP)"
+    id="12dea1b9-5709-48b5-9b2e-bab33753d771"
+    documentation="Flux Customer&#xD;&#xA;Google Analytics: pyganalytics&#xD;&#xA;Google Workspace Spreadsheet: pyspreadsheet&#xD;&#xA;Social Bakers: azure.storage.blob (dump csv)&#xD;&#xA;Facebook: pyfbook&#xD;&#xA;Radarly: SQL insert&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UDG SAP EDV Bon Achat"
+    id="ac5080da-d323-4bad-95ca-eae0f6ca5b87"
+    documentation="collecte les fichiers bona01* du répertoire SAP EDV (ou équivalent)&#xD;&#xA;renvoie chaque ligne (body.fullrow) dans un postEvent dans eda.salesforce_edv.deliveries&#xD;&#xA;"/>

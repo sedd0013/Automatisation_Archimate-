@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*salesforce_edv.postDeclarationAffectation"
+    id="b8707ee6-11e7-4b9b-9aed-447545c32380"
+    documentation="deux formats possibles en entrée:&#xD;&#xA;- SAP ECC (via EDA): transformation faite depuis eda/_subscribers/&#xD;&#xA;- GrApp (en direct dans api si présence de champs GrApp)&#xD;&#xA;"/>

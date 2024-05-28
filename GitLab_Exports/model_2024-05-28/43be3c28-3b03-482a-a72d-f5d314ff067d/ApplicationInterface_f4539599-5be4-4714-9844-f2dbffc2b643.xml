@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="egate.getPartenaireById"
+    id="f4539599-5be4-4714-9844-f2dbffc2b643"
+    documentation="remplacer par salesforce_dev.getAccount"/>

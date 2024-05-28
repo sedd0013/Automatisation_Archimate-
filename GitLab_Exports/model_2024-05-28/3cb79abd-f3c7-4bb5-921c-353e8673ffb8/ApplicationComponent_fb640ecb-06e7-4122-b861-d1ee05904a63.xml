@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAP EDV"
+    id="fb640ecb-06e7-4122-b861-d1ee05904a63"
+    documentation="CPI: Pascal GAUTIER&#xD;&#xA;- pas d'env de DEV/TEST ?&#xD;&#xA;- limiter les modifications prévue&#xD;&#xA;&#xD;&#xA;! suppression échantillon dans SAP EDV doit émettre flux de suppression vers SF"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sap_edv.postEchantillonAdministratif"
+    id="6a3e648d-a4bf-4704-a6d8-3c248b1b9133"
+    documentation="format attendu: ligne de text brut au format du fichier echa01 SAP EDV"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="sap_edv.postAccount"
+    id="c77fb0d8-12b7-4fb9-a0e4-805920136428"
+    documentation="format attendu: ligne de text brut au format du fichier tiers SAP EDV"/>

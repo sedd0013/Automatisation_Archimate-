@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*loyalty.postRefund"
+    id="id-99dd7c5446f649c1a637be49f964e108"
+    documentation="StoreServer/itemRefundTransaction"/>

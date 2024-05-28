@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="portail_partenaires.postNotification"
+    id="72141e07-e5c0-434e-a8c0-0295b88918f8"
+    documentation="https://api-front-dev.moet-hennessy.net:8443/swagger/portail_partenaires.json&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;!peut faire transiter échantillon, engagement, partenaire ou vente"/>

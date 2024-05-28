@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_edv.postEchantillonBouteille"
+    id="a77531c7-7931-436f-a6f7-b93b567d8735"
+    documentation="Demande de création échantillon (bouteille, admin, père)&#xD;&#xA;envoi en création (eGateID null ou en update eGateId non null&#xD;&#xA;retour de SF = BouteilleId (eGateID pour GrApp)&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eda.sap_edv.accounts"
+    id="1d574811-f743-4a27-8f52-64edd2d3830c"
+    documentation="formatage du message selon provenance pour subscriber SAP EDV&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_edv.postEchantillonAdmin"
+    id="fa13cb33-1c77-4d63-9400-72a5b6249044"
+    documentation="reçoit des données en direct de GrApp (transformée dans cette méthode) et reçoit des données de SAP EDV via EDA (transformation dans eda sub)"/>

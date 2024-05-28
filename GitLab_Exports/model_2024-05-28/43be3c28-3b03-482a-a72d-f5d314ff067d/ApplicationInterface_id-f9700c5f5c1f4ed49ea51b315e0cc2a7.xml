@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_b2c.postPrivateOrder"
+    id="id-f9700c5f5c1f4ed49ea51b315e0cc2a7"
+    documentation="Order POST {salesforceinstance}/services/data/v52.0/composite/tree/MH_Order__c&#xD;&#xA;&#xD;&#xA;get record type id for order and order line item&#xD;&#xA;"/>

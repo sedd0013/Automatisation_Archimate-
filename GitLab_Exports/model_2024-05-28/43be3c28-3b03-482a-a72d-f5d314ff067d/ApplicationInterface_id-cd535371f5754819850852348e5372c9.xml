@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="loyalty.postConfirmation"
+    id="id-cd535371f5754819850852348e5372c9"
+    documentation="StoreServer/storeConfirmTransaction"/>

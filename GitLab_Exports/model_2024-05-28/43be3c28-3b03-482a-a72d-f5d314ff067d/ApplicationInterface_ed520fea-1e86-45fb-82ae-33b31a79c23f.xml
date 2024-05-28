@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="*engage_sales.getEmailResults"
+    id="ed520fea-1e86-45fb-82ae-33b31a79c23f"
+    documentation="https://{{HOST_FRONT}}/engage_sales/emails?last_modified_date=2010-01-20T11:40:11.000+0000&#xD;&#xA;&#xD;&#xA;"/>

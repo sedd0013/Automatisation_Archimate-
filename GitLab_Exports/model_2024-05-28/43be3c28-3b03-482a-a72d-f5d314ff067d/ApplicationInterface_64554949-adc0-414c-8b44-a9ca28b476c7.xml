@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="salesforce_edv.getAccount"
+    id="64554949-adc0-414c-8b44-a9ca28b476c7"
+    documentation="contient mapping SF>GrApp&#xD;&#xA;format de sortie unique identique à celui de egate.getPartenaireById&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AUS WineDirect"
+    id="5e51fec8-9c19-495c-8ebf-a16ea6da9262"
+    documentation="ecommerce MH Australia&#xD;&#xA;&#xD;&#xA;WineDirect API capabilities&#xD;&#xA;- webhook for contact and membership objects&#xD;&#xA;- search api for all objects&#xD;&#xA;"/>
