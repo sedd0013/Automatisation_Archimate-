@@ -1,0 +1,42 @@
+{
+	"format_chaine": "%Y-%m-%d %H:%M:%S",
+	"path_file_archiExports": "Archimate_Exports",
+	"path_gitlab_downloads": "GitLab_Exports",
+	"path_file_events": "Data_BD_Exports/EVENTS.csv",
+	"bd_file_export": "elements_BD_Export.csv",
+	"path_bd_exports": "Data_BD_Exports/elements_BD_Export.csv",
+	"bd_prod_config": [
+		{
+			"user": "y4",
+			"password": "Pourquoi4!",
+			"host": "10.6.26.196",
+			"database": "y4"
+		}
+	],
+	"bd_dev_config": [
+		{
+			"user": "y4",
+			"password": "Pourquoi4_",
+			"host": "10.6.25.198",
+			"database": "y4"
+		}
+	],
+	"git_config": [
+		{
+			"url": "git@gitlab.moet-hennessy.net:data-integration-team/integration-archi.git",
+			"branch": "master"
+		}
+	],
+	"file_prop": "properties.csv",
+	"bd_file_expLS": "EventsLastSeenDates.csv",
+	"path_file_lastSeen": "Data_BD_Exports/EventsLastSeenDates.csv",
+	"path_file_archiElemImports": "Archimate_Imports/elements.csv",
+	"path_file_archiPropImports": "Archimate_Imports/properties.csv",
+
+	"smtp_server" : "smtp.office365.com",
+	"smtp_port" : 587,
+	"smtp_username" : "mohamed-aziz.seddik.auditeur@lecnam.net",
+	"smtp_password": "sEDDIK7_leCnam13092023",
+	"from_email": "mohamed-aziz.seddik.auditeur@lecnam.net",
+	"to_email": "mseddik@moethennessy.com"
+}
