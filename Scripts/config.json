@@ -33,10 +33,10 @@
 	"path_file_archiElemImports": "Archimate_Imports/elements.csv",
 	"path_file_archiPropImports": "Archimate_Imports/properties.csv",
 
-	"smtp_server" : "smtp.office365.com",
-	"smtp_port" : 587,
-	"smtp_username" : "mohamed-aziz.seddik.auditeur@lecnam.net",
-	"smtp_password": "sEDDIK7_leCnam13092023",
-	"from_email": "mohamed-aziz.seddik.auditeur@lecnam.net",
-	"to_email": "mseddik@moethennessy.com"
+	"smtp_server" : "smtp.mh.lvmh",
+	"smtp_port" : 25,
+	"smtp_username" : "",
+	"smtp_password": "",
+	"from_email": "integration_services@moethennessy.com",
+	"to_email": "mh-fr-mhis-dataintegrationteam@moethennessy.com"
 }

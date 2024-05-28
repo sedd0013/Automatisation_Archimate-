@@ -225,7 +225,7 @@ class Controller:
         try:
             server = smtplib.SMTP(smtp_server, smtp_port)
             server.starttls()  # Activer le chiffrement TLS
-            server.login(smtp_username, smtp_password)
+            # server.login(smtp_username, smtp_password)
             server.sendmail(from_email, to_email, message.as_string())
 
             print("Email envoyé avec succès!")
